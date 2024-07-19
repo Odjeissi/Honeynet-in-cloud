@@ -32,10 +32,10 @@ For the "BEFORE" metrics, all resources were originally deployed, and exposed to
 For the "AFTER" metrics, NSG was hardened by blocking ALL traffic except my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint.
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https.png)<br>
-![Linux Syslog Auth Failures](https.png)<br>
-![Windows RDP/SMB Auth Failures](https.png)<br>
-![MSSQL Auth Failures](https.png)<br>
+![image](https://github.com/user-attachments/assets/ea84c954-caf2-4f39-951b-583f579d041a)<br> 
+![image](https://github.com/user-attachments/assets/1675b551-5b89-4d80-b8a0-ab9985ccb822)<br>
+![image](https://github.com/user-attachments/assets/2d732bef-8828-4138-9cd5-94438d4c12f1)<br>
+![image](https://github.com/user-attachments/assets/490091ab-85c5-4136-892a-52b01cf8d085)<br>
 
 ## Metrics Before Hardening / Security Controls
 
