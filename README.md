@@ -1,5 +1,6 @@
 # Building a SOC + Honeynet in Azure
-![Cloud Honeynet / SOC](htt.jpg)
+![image](https://github.com/user-attachments/assets/ba017083-0601-4069-8de3-cabb5c5474d8)
+
 
 ## Introduction
 
@@ -12,10 +13,12 @@ In this project, I set up a mini honeynet in Azure. I connected logs from differ
 - AzureNetworkAnalytics_CL (Malicious Flows allowed into our honeynet)
 
 ## Architecture Before Hardening / Security Controls
-![Architecture Diagram](https.jpg)
+![image](https://github.com/user-attachments/assets/f527f2f2-27b2-4469-81a5-cd7a26078e90)
+
 
 ## Architecture After Hardening / Security Controls
-![Architecture Diagram](https.jpg)
+![image](https://github.com/user-attachments/assets/80a9cf6a-6ba3-4e43-9562-7034d55a7660)
+
 
 The architecture of this project consists of the following components:
 
